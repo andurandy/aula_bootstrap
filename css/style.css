@@ -1,0 +1,33 @@
+
+.navbar-brand{
+    margin: 10px;
+}
+
+/* nsvbar não pegou */
+.navbar {
+    background-color: rgb(120, 122, 222);
+}
+
+.nav-link{
+    color: brown;
+}
+
+.quem-somos{
+    background-color: aqua;
+    color: brown;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: aquamarine;
+
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
